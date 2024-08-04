@@ -15,16 +15,15 @@ The SpatiotempDM/analyses folder consists of all MATLAB code (R2023b) required t
 
 Data pipeline
 -------------------
-For data pipeline and further information see: 
-data_pipeline.pdf
-spatiotempDM_pipline_info.pdf
+For data pipeline and further information see:<br>
+data_pipeline.pdf<br>
+spatiotempDM_pipline_info.pdf<br>
 
 Cite
 -------------------
-If you use code from this repository, please cite it using this DOI:
+If you use code from this repository, please cite it using this DOI:<br>
 [ADD ZENODO DOI]
 
 Contributors
 -------------------
-
 This code was authored by Lior Lebovich, 2024.
