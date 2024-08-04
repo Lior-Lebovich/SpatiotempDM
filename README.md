@@ -2,7 +2,6 @@
 Custom MATLAB scripts, functions and data files:
 
 Spatiotemporal dynamics of locomotor decisions in Drosophila melanogaster
-
 Lior Lebovich*, Tom Alisch*, Edward S. Redhead, Matthew O. Parker, Yonatan Loewenstein, Iain D. Couzin, and Benjamin L. de Bivort
 
 
