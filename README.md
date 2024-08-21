@@ -7,7 +7,8 @@ This repository is associated with the paper "Spatiotemporal dynamics of locomot
 
 Data
 -------------------
-All data required to reproduce our results are available in the SpatiotempDM/datafiles folder, with raw data available in the SpatiotempDM/datafiles/rawdata folder.
+All data required to reproduce our results are available in the SpatiotempDM/datafiles folder in the Zenodo repository: https://doi.org/10.5281/zenodo.13352340, 
+with raw data available in the SpatiotempDM/datafiles/rawdata folder.
 
 Analysis
 -------------------
@@ -21,8 +22,8 @@ spatiotempDM_pipline_info.pdf<br>
 
 Cite
 -------------------
-If you use code from this repository, please cite it using this DOI:<br>
-[ADD ZENODO DOI]
+If you use code from this repository, please cite it using the Zenodo DOI:
+https://doi.org/10.5281/zenodo.13352340
 
 Contributors
 -------------------
